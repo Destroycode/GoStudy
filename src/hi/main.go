@@ -3,7 +3,8 @@ package main
 import (
 	"fmt"
 	"log"
-	"program/src/keyboard"
+
+	"github.com/Destroycode/keyboard"
 )
 
 func main() {
